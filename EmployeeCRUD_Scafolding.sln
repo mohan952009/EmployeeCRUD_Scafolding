@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeCRUD_Scafolding", "EmployeeCRUD_Scafolding\EmployeeCRUD_Scafolding.csproj", "{1A74B86F-B5E8-4F8C-BFE4-9CB88982D4CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A74B86F-B5E8-4F8C-BFE4-9CB88982D4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A74B86F-B5E8-4F8C-BFE4-9CB88982D4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A74B86F-B5E8-4F8C-BFE4-9CB88982D4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A74B86F-B5E8-4F8C-BFE4-9CB88982D4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F88681DE-0389-4526-8D42-FDA1F0C082F8}
+	EndGlobalSection
+EndGlobal
